@@ -1,7 +1,7 @@
 # Hi there, Im Daniel Reyes García 👨‍💻
-
-#Welcome to mi GIT HUB
 ![imagen](https://user-images.githubusercontent.com/43205522/116861168-9aaaf180-abfa-11eb-918b-67a2cc0d8046.png)
+#Welcome to mi GIT HUB
+
 
 
 - 🌱 I’m currently studying Computer Science at the ULPGC
